@@ -2,6 +2,14 @@
 
 This file was generated using [@jscutlery/semver](https://github.com/jscutlery/semver).
 
+## [2.7.0](https://github.com/infinitered/reactotron/compare/reactotron-core-ui@2.6.3...reactotron-core-ui@2.7.0) (2026-04-06)
+
+
+### Features
+
+* add MCP server for Claude Code integration ([#1598](https://github.com/infinitered/reactotron/issues/1598)) ([5aba55f](https://github.com/infinitered/reactotron/commit/5aba55fb97d80a69e8176f4c46588937fb507848))
+* **reactotron-core-ui:** add copy button for nested objects in API response   ([#1597](https://github.com/infinitered/reactotron/issues/1597)) ([2ad8856](https://github.com/infinitered/reactotron/commit/2ad885683eeed4faf92d6b7728d243d68cb6a3f6))
+
 ### [2.6.3](https://github.com/infinitered/reactotron/compare/reactotron-core-ui@2.6.2...reactotron-core-ui@2.6.3) (2025-10-06)
 
 ### [2.6.2](https://github.com/infinitered/reactotron/compare/reactotron-core-ui@2.6.1...reactotron-core-ui@2.6.2) (2025-09-16)
