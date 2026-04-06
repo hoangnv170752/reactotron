@@ -2,7 +2,7 @@
   "name": "reactotron-app",
   "productName": "Reactotron",
   "version": "3.9.0",
-  "description": "A desktop app for inspecting your React JS and React Native projects. macOS, Linux, and Windows.",
+  "description": "A desktop app for inspecting your React JS and React Native projects. macOS, Linux, and Windows",
   "author": {
     "name": "Infinite Red",
     "email": "hello@infinite.red",
